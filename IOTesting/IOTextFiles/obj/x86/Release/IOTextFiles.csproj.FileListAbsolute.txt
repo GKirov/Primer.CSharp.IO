@@ -1,0 +1,4 @@
+C:\aula\primer.csharp.io\IOTesting\IOTextFiles\bin\Release\IOTextFiles.exe
+C:\aula\primer.csharp.io\IOTesting\IOTextFiles\bin\Release\IOTextFiles.pdb
+C:\aula\primer.csharp.io\IOTesting\IOTextFiles\obj\x86\Release\IOTextFiles.exe
+C:\aula\primer.csharp.io\IOTesting\IOTextFiles\obj\x86\Release\IOTextFiles.pdb
