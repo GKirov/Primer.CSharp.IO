@@ -1,0 +1,5 @@
+C:\aula\primer.csharp.io\IOTesting\IOXMLFiles\bin\Release\IOXMLFiles.exe
+C:\aula\primer.csharp.io\IOTesting\IOXMLFiles\bin\Release\IOXMLFiles.pdb
+C:\aula\primer.csharp.io\IOTesting\IOXMLFiles\obj\x86\Release\IOXMLFiles.csprojResolveAssemblyReference.cache
+C:\aula\primer.csharp.io\IOTesting\IOXMLFiles\obj\x86\Release\IOXMLFiles.exe
+C:\aula\primer.csharp.io\IOTesting\IOXMLFiles\obj\x86\Release\IOXMLFiles.pdb
