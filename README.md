@@ -1,2 +1,4 @@
-# Primer.CSharp.IO
-Primer.CSharp.IO
+# Примери с файлова структура
+
+
+.....
